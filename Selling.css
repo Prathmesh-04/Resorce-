@@ -53,12 +53,6 @@ body {
     text-align: center;
 }
 
-.heading {
-    font-size: 28px;
-    color: #333;
-    margin: 20px 0;
-}
-
 /* Form Container */
 .form-container {
     width: 90%;
@@ -136,9 +130,8 @@ textarea {
 }
 
 .heading {
-    font-weight: bold;
-    font-size: 2cm;
     color: rgb(37, 162, 193);
+    font-size: 4.5rem;
 }
 
 .selling {
@@ -146,6 +139,12 @@ textarea {
     cursor: pointer;
     transition: 0.3s ease;
     display: inline-block;
+}
+ 
+.data{
+    font-family: Abril Fatface;
+    font-size: 1.7rem;
+    margin-top: 2rem;
 }
 
 .selling:hover {

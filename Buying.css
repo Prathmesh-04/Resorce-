@@ -72,6 +72,24 @@ body {
     font-size: 7rem;
     font-spacing: 2px;
     color: #51cf9f;
+    font-family: Abril Fatface;
+}
+#head2{
+    font-family: Unna;
+}
+.seachbar{
+    width: 50%;
+}
+.seachbar input{
+    width: 100%;
+    height: 40px;
+    padding: 0 35px 0 10px;
+    font-size: 1.1em;
+    /* background-color: transparent; */
+    border: none;
+    border-radius: 30px;
+    outline: none;
+    color: #000000;
 }
 
 /* Items Section */
