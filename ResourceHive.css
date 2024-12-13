@@ -101,7 +101,19 @@ nav img{
 h1 {
   font-size: 72px;
   background: -webkit-linear-gradient(#00ae2c, #00d1a7, rgb(0, 151, 206));
+  background-clip: text;
+  background-clip: text;
+  background-clip: text;
+  background-clip: text;
+  background-clip: text;
+  background-clip: text;
+  background-clip: text;
+  background-clip: text;
   -webkit-background-clip: text;
+  background-clip: text;
+  background-clip: text;
+  background-clip: text;
+  background-clip: text;
   -webkit-text-fill-color: transparent;
 }
 
