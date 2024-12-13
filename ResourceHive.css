@@ -100,7 +100,7 @@ nav img{
 
 h1 {
   font-size: 72px;
-  background: -webkit-linear-gradient(#00ae2c, #00d1a7, rgb(0, 151, 206));
+  background: -webkit-linear-gradient(#005816, #00d1a7, rgb(0, 151, 206));
   background-clip: text;
   background-clip: text;
   background-clip: text;
@@ -138,7 +138,7 @@ h1 {
     conic-gradient(
         from var(--gradient-angle),
         transparent,
-        rgb(0, 255, 119) var(--p),
+        rgb(0, 66, 23) var(--p),
         transparent calc(var(--p) * 2)
       )
       border-box;
@@ -174,9 +174,10 @@ h1 {
 
 .abt h1{
   font-size: 80px;
-  background-image: linear-gradient(90deg, black, rgb(0, 46, 4) , rgb(0, 116, 10), rgb(186, 255, 189));
+  background-image: linear-gradient(90deg, black, rgb(4, 155, 16), rgb(0, 198, 17), rgb(186, 255, 189));
   -webkit-background-clip: text;
   -webkit-text-fill-color: transparent;
+  -webkit-text-stroke: 1px black;
 }
 :root {
   --shadow: #4b4b4b;
@@ -274,7 +275,7 @@ h1 {
   box-shadow: 0 0 30px;
 }
 .back{
-  background-image: linear-gradient(180deg, #83ff6d 0%, #ded5ff 100%);
+  background-image: linear-gradient(180deg, #0f6500fe 0%, #ded5ff 100%);
 }
 /*FOOTER*/
 footer{
