@@ -46,7 +46,8 @@
 body {
     font-family: Arial, sans-serif;
     /* background-image: radial-gradient( circle 1292px at -13.6% 51.7%,  rgba(0,56,68,1) 0%, rgba(163,217,185,1) 51.5%, rgb(163,217,185,1) 88.6% ); */
-    background-image: url(Images/darkgreenbg.jpg);
+    background-image: url(Images/darkbg7.png);
+    background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
     text-align: center;
@@ -63,7 +64,7 @@ body {
     width: 90%;
     max-width: 600px;
     margin: 30px auto;
-    background-image: url(Images/darkbg3.avif);
+    background-image: url(Images/darkbg8.jpg);
     background-size: cover;
     background-position: center;
     padding: 30px;
@@ -137,11 +138,11 @@ textarea {
 .heading {
     font-weight: bold;
     font-size: 2cm;
-    color: rgb(30, 113, 154);
+    color: rgb(37, 162, 193);
 }
 
 .selling {
-    color: rgb(41, 129, 19);
+    color: rgb(124, 197, 21);
     cursor: pointer;
     transition: 0.3s ease;
     display: inline-block;
