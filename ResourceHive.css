@@ -138,7 +138,7 @@
       conic-gradient(
           from var(--gradient-angle),
           transparent,
-          rgb(0, 66, 23) var(--p),
+          rgb(0, 255, 89) var(--p),
           transparent calc(var(--p) * 2)
         )
         border-box;
